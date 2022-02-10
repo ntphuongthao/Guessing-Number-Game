@@ -1,4 +1,3 @@
 # Guessing-Number-Game
 
-Using **HTML**, **CSS**, **JavaScipt**, and **DOM** fundamentals to build a guessing number game from 1 to 20.
-The graphics of the game is inspired by those made in the old years.
+Developed using HTML, CSS, JavaScript, and DOM fundamentals to allow players to guess numbers from 1 to 20. Record-breaking information is continuously updated. Inspired by classic arcade games, the game's graphics are retro.
